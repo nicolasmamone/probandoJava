@@ -9,6 +9,7 @@ public class Empleado extends Persona{
 
 
     public String getLegajo() {
+
         return legajo;
 
     }
